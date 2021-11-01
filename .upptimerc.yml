@@ -3,15 +3,15 @@ owner: TicketOpen # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: 멜론 티켓
+  - name: Melon Ticket
     url: https://ticket.melon.com
-  - name: 인터파크 티켓
+  - name: Interpark Ticket
     url: http://ticket.interpark.com
-  - name: 예스24 티켓
+  - name: YES24 Ticket
     url: http://ticket.yes24.com
-  - name: 티켓링크
+  - name: Ticketlink
     url: https://ticket.wemakeprice.com
-  - name: 위메프 공연티켓
+  - name: WE MAKE CURTURE
     url: https://ticket.wemakeprice.com
 
 status-website:
