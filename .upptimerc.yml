@@ -23,10 +23,6 @@ status-website:
   introTitle: "**Upptime** for TicketOpen"
   introMessage: 티켓 예매사이트의 상태를 모니터링합니다.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
