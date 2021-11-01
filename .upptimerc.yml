@@ -1,6 +1,5 @@
-# Change these first
-owner: TicketOpen # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: TicketOpen
+repo: status
 
 sites:
   - name: Melon Ticket
@@ -17,16 +16,15 @@ sites:
     url: https://live.naver.com
   - name: V LIVE
     url: https://www.vlive.tv    
-    
+
+assignees:
+  - SOLPLPARTY
+  - amblerkr
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** for TicketOpen"
   introMessage: 티켓 예매사이트의 상태를 모니터링합니다.
   navbar:
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
