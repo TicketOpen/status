@@ -24,8 +24,9 @@ sites:
     url: https://danchu.tv
   - name: bbangya tv
     url: https://www.bbangyatv.com            
-    
-
+  - name: Artists'Card
+    url: https://artistscard.com/ko          
+   
 assignees:
   - SOLPLPARTY
   - amblerkr
