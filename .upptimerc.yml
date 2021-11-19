@@ -15,7 +15,16 @@ sites:
   - name: NAVER LIVE
     url: https://live.naver.com
   - name: V LIVE
-    url: https://www.vlive.tv    
+    url: https://www.vlive.tv
+  - name: YouTube
+    url: https://www.youtube.com
+  - name: MyMusicTaste
+    url: https://www.mymusictaste.com
+  - name: danchu
+    url: https://danchu.tv
+  - name: bbangya tv
+    url: https://www.bbangyatv.com            
+    
 
 assignees:
   - SOLPLPARTY
