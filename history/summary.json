@@ -22,9 +22,9 @@
     "url": "http://ticket.interpark.com",
     "icon": "https://favicons.githubusercontent.com/ticket.interpark.com",
     "slug": "interpark-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 890,
     "timeMonth": 925,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   },
   {
     "name": "YES24 Ticket",
