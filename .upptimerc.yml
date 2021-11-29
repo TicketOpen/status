@@ -14,6 +14,10 @@ sites:
     url: https://ticket.wemakeprice.com
   - name: NAVER LIVE
     url: https://live.naver.com
+  - name: NAVER NOW.
+    url: https://now.naver.com
+  - name: NAVER TV
+    url: https://tv.naver.com
   - name: V LIVE
     url: https://www.vlive.tv
   - name: YouTube
