@@ -30,7 +30,8 @@ sites:
     url: https://www.bbangyatv.com            
   - name: Artists'Card
     url: https://artistscard.com/ko          
-   
+  - name: Lively
+    url: https://livelystage.com        
 assignees:
   - SOLPLPARTY
   - amblerkr
