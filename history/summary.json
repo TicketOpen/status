@@ -60,19 +60,19 @@
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://favicons.githubusercontent.com/ticket.wemakeprice.com",
     "slug": "ticketlink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 965,
-    "timeDay": 812,
-    "timeWeek": 1017,
-    "timeMonth": 972,
-    "timeYear": 965,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 970,
+    "timeDay": 1003,
+    "timeWeek": 1037,
+    "timeMonth": 978,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2021-12-11": 1
+      "2021-12-11": 9
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://favicons.githubusercontent.com/ticket.wemakeprice.com",
     "slug": "we-make-curture",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 153,
-    "timeWeek": 169,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 169,
+    "timeDay": 173,
+    "timeWeek": 172,
     "timeMonth": 169,
-    "timeYear": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 9
     }
   },
   {
