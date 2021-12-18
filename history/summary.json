@@ -132,19 +132,19 @@
     "url": "https://tv.naver.com",
     "icon": "https://favicons.githubusercontent.com/tv.naver.com",
     "slug": "naver-tv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1691,
-    "timeDay": 1894,
-    "timeWeek": 1633,
-    "timeMonth": 1691,
-    "timeYear": 1691,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1711,
+    "timeDay": 2014,
+    "timeWeek": 1695,
+    "timeMonth": 1711,
+    "timeYear": 1711,
     "dailyMinutesDown": {
-      "2021-12-18": 0
+      "2021-12-18": 9
     }
   },
   {
