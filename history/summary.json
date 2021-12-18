@@ -68,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 961,
     "timeDay": 1220,
-    "timeWeek": 938,
+    "timeWeek": 901,
     "timeMonth": 963,
     "timeYear": 961,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 197,
-    "timeWeek": 166,
+    "timeWeek": 162,
     "timeMonth": 168,
     "timeYear": 168,
     "dailyMinutesDown": {}
@@ -132,9 +132,9 @@
     "url": "https://tv.naver.com",
     "icon": "https://favicons.githubusercontent.com/tv.naver.com",
     "slug": "naver-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +143,9 @@
     "timeWeek": 1633,
     "timeMonth": 1691,
     "timeYear": 1691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-18": 0
+    }
   },
   {
     "name": "V LIVE",
@@ -259,11 +261,11 @@
     "icon": "https://favicons.githubusercontent.com/livelystage.com",
     "slug": "lively",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 716,
     "timeDay": 847,
     "timeWeek": 710,
