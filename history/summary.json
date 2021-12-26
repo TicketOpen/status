@@ -204,19 +204,19 @@
     "url": "https://danchu.tv",
     "icon": "https://favicons.githubusercontent.com/danchu.tv",
     "slug": "danchu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1658,
-    "timeDay": 1730,
-    "timeWeek": 1635,
-    "timeMonth": 1653,
-    "timeYear": 1658,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.87%",
+    "time": 1727,
+    "timeDay": 3138,
+    "timeWeek": 1999,
+    "timeMonth": 1740,
+    "timeYear": 1727,
     "dailyMinutesDown": {
-      "2021-12-26": 0
+      "2021-12-26": 71
     }
   },
   {
