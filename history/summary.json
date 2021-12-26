@@ -204,9 +204,9 @@
     "url": "https://danchu.tv",
     "icon": "https://favicons.githubusercontent.com/danchu.tv",
     "slug": "danchu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,7 +215,9 @@
     "timeWeek": 1635,
     "timeMonth": 1653,
     "timeYear": 1658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "bbangya tv",
