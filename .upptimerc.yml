@@ -31,7 +31,14 @@ sites:
   - name: Artists'Card
     url: https://artistscard.com/ko          
   - name: Lively
-    url: https://livelystage.com        
+    url: https://livelystage.com    
+  - name: LAKUS
+    url: https://www.lakus.live    
+  - name: MetaTheater
+    url:  https://metatheater.live    
+  - name: NATIONAL THEATER COMPANY OF KOREA
+    url: https://on.ntck.or.kr/Product/OTT    
+    
 assignees:
   - SOLPLPARTY
   - amblerkr
