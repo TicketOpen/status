@@ -24,6 +24,8 @@ sites:
     url: https://www.youtube.com
   - name: MyMusicTaste
     url: https://www.mymusictaste.com
+  - name: Makestar
+    url: https://www.makestar.co
   - name: danchu
     url: https://danchu.tv
   - name: bbangya tv
