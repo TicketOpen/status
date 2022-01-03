@@ -261,18 +261,20 @@
     "url": "https://artistscard.com/ko",
     "icon": "https://favicons.githubusercontent.com/artistscard.com",
     "slug": "artists-card",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1132,
-    "timeDay": 1130,
-    "timeWeek": 1269,
-    "timeMonth": 1135,
-    "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "time": 1135,
+    "timeDay": 1227,
+    "timeWeek": 1275,
+    "timeMonth": 1140,
+    "timeYear": 1135,
+    "dailyMinutesDown": {
+      "2022-01-03": 0
+    }
   },
   {
     "name": "Lively",
