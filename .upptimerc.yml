@@ -22,6 +22,8 @@ sites:
     url: https://www.vlive.tv
   - name: YouTube
     url: https://www.youtube.com
+  - name: Beyond LIVE
+    url: https://beyondlive.com
   - name: MyMusicTaste
     url: https://www.mymusictaste.com
   - name: Makestar
