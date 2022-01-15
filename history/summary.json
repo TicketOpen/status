@@ -209,19 +209,19 @@
     "url": "https://www.mymusictaste.com",
     "icon": "https://favicons.githubusercontent.com/www.mymusictaste.com",
     "slug": "my-music-taste",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 733,
-    "timeWeek": 636,
-    "timeMonth": 1098,
-    "timeYear": 841,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.87%",
+    "time": 840,
+    "timeDay": 756,
+    "timeWeek": 654,
+    "timeMonth": 1090,
+    "timeYear": 840,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-15": 104
     }
   },
   {
