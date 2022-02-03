@@ -1,7 +1,7 @@
 url: http://ticket.interpark.com
-status: down
-code: 503
-responseTime: 476
-lastUpdated: 2022-02-03T05:34:17.551Z
+status: up
+code: 200
+responseTime: 840
+lastUpdated: 2022-02-03T05:43:49.772Z
 startTime: Mon Nov 01 2021 04:15:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
