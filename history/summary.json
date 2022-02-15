@@ -213,12 +213,12 @@
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 798,
     "timeDay": 789,
     "timeWeek": 790,
-    "timeMonth": 703,
+    "timeMonth": 708,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2022-01-15": 104
@@ -229,18 +229,20 @@
     "url": "https://www.makestar.co",
     "icon": "https://favicons.githubusercontent.com/www.makestar.co",
     "slug": "makestar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1798,
-    "timeDay": 1438,
-    "timeWeek": 1643,
-    "timeMonth": 1758,
-    "timeYear": 1798,
-    "dailyMinutesDown": {}
+    "time": 1971,
+    "timeDay": 6011,
+    "timeWeek": 2761,
+    "timeMonth": 2034,
+    "timeYear": 1971,
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "danchu",
