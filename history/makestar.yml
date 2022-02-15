@@ -1,7 +1,7 @@
 url: https://www.makestar.co
-status: up
-code: 200
-responseTime: 1438
-lastUpdated: 2022-02-14T23:09:29.336Z
+status: down
+code: 500
+responseTime: 10584
+lastUpdated: 2022-02-15T16:15:42.510Z
 startTime: Thu Dec 30 2021 16:55:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
