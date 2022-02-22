@@ -48,7 +48,7 @@ assignees:
   - amblerkr
 
 status-website:
-  baseUrl: /status
+  cname: ticket-status.cord.town
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** for TicketOpen"
