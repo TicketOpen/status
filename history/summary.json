@@ -209,9 +209,9 @@
     "url": "https://www.mymusictaste.com",
     "icon": "https://favicons.githubusercontent.com/www.mymusictaste.com",
     "slug": "my-music-taste",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -221,6 +221,7 @@
     "timeMonth": 934,
     "timeYear": 815,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-01-15": 104
     }
   },
