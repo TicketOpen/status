@@ -213,12 +213,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 912,
     "timeDay": 1351,
     "timeWeek": 865,
-    "timeMonth": 1360,
+    "timeMonth": 936,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2022-04-08": 22,
@@ -349,18 +349,20 @@
     "url": "https://metatheater.live",
     "icon": "https://favicons.githubusercontent.com/metatheater.live",
     "slug": "meta-theater",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 561,
-    "timeWeek": 766,
-    "timeMonth": 688,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 673,
+    "timeDay": 567,
+    "timeWeek": 742,
+    "timeMonth": 684,
+    "timeYear": 673,
+    "dailyMinutesDown": {
+      "2022-05-08": 0
+    }
   },
   {
     "name": "NATIONAL THEATER COMPANY OF KOREA",
