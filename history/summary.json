@@ -349,19 +349,19 @@
     "url": "https://metatheater.live",
     "icon": "https://favicons.githubusercontent.com/metatheater.live",
     "slug": "meta-theater",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 673,
-    "timeDay": 567,
-    "timeWeek": 742,
-    "timeMonth": 684,
+    "timeDay": 569,
+    "timeWeek": 723,
+    "timeMonth": 681,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 81
     }
   },
   {
