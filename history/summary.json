@@ -254,9 +254,9 @@
     "url": "https://danchu.tv",
     "icon": "https://favicons.githubusercontent.com/danchu.tv",
     "slug": "danchu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -266,6 +266,7 @@
     "timeMonth": 1843,
     "timeYear": 1802,
     "dailyMinutesDown": {
+      "2022-06-03": 0,
       "2021-12-26": 71
     }
   },
