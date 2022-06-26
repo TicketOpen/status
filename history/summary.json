@@ -44,19 +44,19 @@
     "url": "http://ticket.yes24.com",
     "icon": "https://favicons.githubusercontent.com/ticket.yes24.com",
     "slug": "yes-24-ticket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 1069,
-    "timeWeek": 1015,
-    "timeMonth": 1031,
-    "timeYear": 1003,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1004,
+    "timeDay": 1111,
+    "timeWeek": 1032,
+    "timeMonth": 1035,
+    "timeYear": 1004,
     "dailyMinutesDown": {
-      "2022-06-26": 0
+      "2022-06-26": 26
     }
   },
   {
