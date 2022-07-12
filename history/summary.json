@@ -156,9 +156,9 @@
     "url": "https://www.vlive.tv",
     "icon": "https://favicons.githubusercontent.com/www.vlive.tv",
     "slug": "v-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 1248,
     "timeMonth": 1322,
     "timeYear": 1246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   },
   {
     "name": "YouTube",
