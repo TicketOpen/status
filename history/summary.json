@@ -156,10 +156,10 @@
     "url": "https://www.vlive.tv",
     "icon": "https://favicons.githubusercontent.com/www.vlive.tv",
     "slug": "v-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "35.50%",
-    "uptimeWeek": "85.71%",
+    "uptimeDay": "45.85%",
+    "uptimeWeek": "85.70%",
     "uptimeMonth": "96.68%",
     "uptimeYear": "99.61%",
     "time": 1221,
@@ -168,6 +168,7 @@
     "timeMonth": 1140,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2022-07-21": 0,
       "2022-07-20": 981,
       "2022-07-19": 462,
       "2022-07-12": 15
