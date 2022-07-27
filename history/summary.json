@@ -164,7 +164,7 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.95%",
+    "uptimeWeek": "88.17%",
     "uptimeMonth": "94.22%",
     "uptimeYear": "99.35%",
     "time": 1204,
@@ -393,19 +393,19 @@
     "url": "https://on.ntck.or.kr/Product/OTT",
     "icon": "https://favicons.githubusercontent.com/on.ntck.or.kr",
     "slug": "national-theater-company-of-korea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1697,
-    "timeDay": 1693,
-    "timeWeek": 1680,
-    "timeMonth": 1737,
-    "timeYear": 1697,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1699,
+    "timeDay": 1857,
+    "timeWeek": 1723,
+    "timeMonth": 1746,
+    "timeYear": 1699,
     "dailyMinutesDown": {
-      "2022-07-27": 0
+      "2022-07-27": 22
     }
   }
 ]
