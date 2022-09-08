@@ -162,11 +162,11 @@
     "icon": "https://favicons.githubusercontent.com/www.vlive.tv",
     "slug": "v-live",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 1236,
     "timeDay": 1666,
     "timeWeek": 1340,
@@ -394,9 +394,9 @@
     "url": "https://on.ntck.or.kr/Product/OTT",
     "icon": "https://favicons.githubusercontent.com/on.ntck.or.kr",
     "slug": "national-theater-company-of-korea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
@@ -406,6 +406,7 @@
     "timeMonth": 1797,
     "timeYear": 1715,
     "dailyMinutesDown": {
+      "2022-09-08": 0,
       "2022-08-20": 92,
       "2022-07-27": 22
     }
