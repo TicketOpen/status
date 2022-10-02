@@ -2,20 +2,21 @@
   {
     "name": "Melon Ticket",
     "url": "https://ticket.melon.com",
-    "icon": "https://favicons.githubusercontent.com/ticket.melon.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.79%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.78%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.84%",
     "time": 833,
-    "timeDay": 994,
-    "timeWeek": 870,
+    "timeDay": 920,
+    "timeWeek": 869,
     "timeMonth": 872,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-09-30": 43,
       "2022-09-29": 19,
       "2022-09-28": 79,
@@ -38,7 +39,7 @@
   {
     "name": "Interpark Ticket",
     "url": "http://ticket.interpark.com",
-    "icon": "https://favicons.githubusercontent.com/ticket.interpark.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ticket.interpark.com.ico",
     "slug": "interpark-ticket",
     "status": "up",
     "uptime": "99.97%",
@@ -61,7 +62,7 @@
   {
     "name": "YES24 Ticket",
     "url": "http://ticket.yes24.com",
-    "icon": "https://favicons.githubusercontent.com/ticket.yes24.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ticket.yes24.com.ico",
     "slug": "yes-24-ticket",
     "status": "up",
     "uptime": "99.99%",
@@ -81,7 +82,7 @@
   {
     "name": "Ticketlink",
     "url": "https://ticket.wemakeprice.com",
-    "icon": "https://favicons.githubusercontent.com/ticket.wemakeprice.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "ticketlink",
     "status": "up",
     "uptime": "100.00%",
@@ -99,7 +100,7 @@
   {
     "name": "WE MAKE CURTURE",
     "url": "https://ticket.wemakeprice.com",
-    "icon": "https://favicons.githubusercontent.com/ticket.wemakeprice.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "we-make-curture",
     "status": "up",
     "uptime": "100.00%",
@@ -117,7 +118,7 @@
   {
     "name": "NAVER LIVE",
     "url": "https://live.naver.com",
-    "icon": "https://favicons.githubusercontent.com/live.naver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/live.naver.com.ico",
     "slug": "naver-live",
     "status": "up",
     "uptime": "100.00%",
@@ -135,7 +136,7 @@
   {
     "name": "NAVER NOW.",
     "url": "https://now.naver.com",
-    "icon": "https://favicons.githubusercontent.com/now.naver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/now.naver.com.ico",
     "slug": "naver-now",
     "status": "up",
     "uptime": "99.99%",
@@ -155,7 +156,7 @@
   {
     "name": "NAVER TV",
     "url": "https://tv.naver.com",
-    "icon": "https://favicons.githubusercontent.com/tv.naver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/tv.naver.com.ico",
     "slug": "naver-tv",
     "status": "up",
     "uptime": "99.99%",
@@ -175,7 +176,7 @@
   {
     "name": "V LIVE",
     "url": "https://www.vlive.tv",
-    "icon": "https://favicons.githubusercontent.com/www.vlive.tv",
+    "icon": "https://icons.duckduckgo.com/ip3/www.vlive.tv.ico",
     "slug": "v-live",
     "status": "up",
     "uptime": "99.48%",
@@ -200,7 +201,7 @@
   {
     "name": "YouTube",
     "url": "https://www.youtube.com",
-    "icon": "https://favicons.githubusercontent.com/www.youtube.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.youtube.com.ico",
     "slug": "you-tube",
     "status": "up",
     "uptime": "100.00%",
@@ -218,7 +219,7 @@
   {
     "name": "Beyond LIVE",
     "url": "https://beyondlive.com",
-    "icon": "https://favicons.githubusercontent.com/beyondlive.com",
+    "icon": "https://icons.duckduckgo.com/ip3/beyondlive.com.ico",
     "slug": "beyond-live",
     "status": "up",
     "uptime": "99.99%",
@@ -238,7 +239,7 @@
   {
     "name": "MyMusicTaste",
     "url": "https://www.mymusictaste.com",
-    "icon": "https://favicons.githubusercontent.com/www.mymusictaste.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.mymusictaste.com.ico",
     "slug": "my-music-taste",
     "status": "up",
     "uptime": "99.95%",
@@ -262,7 +263,7 @@
   {
     "name": "Makestar",
     "url": "https://www.makestar.co",
-    "icon": "https://favicons.githubusercontent.com/www.makestar.co",
+    "icon": "https://icons.duckduckgo.com/ip3/www.makestar.co.ico",
     "slug": "makestar",
     "status": "up",
     "uptime": "99.91%",
@@ -286,7 +287,7 @@
   {
     "name": "danchu",
     "url": "https://danchu.tv",
-    "icon": "https://favicons.githubusercontent.com/danchu.tv",
+    "icon": "https://icons.duckduckgo.com/ip3/danchu.tv.ico",
     "slug": "danchu",
     "status": "up",
     "uptime": "99.98%",
@@ -306,7 +307,7 @@
   {
     "name": "bbangya tv",
     "url": "https://www.bbangyatv.com",
-    "icon": "https://favicons.githubusercontent.com/www.bbangyatv.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "up",
     "uptime": "99.99%",
@@ -326,7 +327,7 @@
   {
     "name": "Artists'Card",
     "url": "https://artistscard.com",
-    "icon": "https://favicons.githubusercontent.com/artistscard.com",
+    "icon": "https://icons.duckduckgo.com/ip3/artistscard.com.ico",
     "slug": "artists-card",
     "status": "up",
     "uptime": "99.87%",
@@ -348,7 +349,7 @@
   {
     "name": "Lively",
     "url": "https://livelystage.com",
-    "icon": "https://favicons.githubusercontent.com/livelystage.com",
+    "icon": "https://icons.duckduckgo.com/ip3/livelystage.com.ico",
     "slug": "lively",
     "status": "up",
     "uptime": "99.99%",
@@ -369,7 +370,7 @@
   {
     "name": "LAKUS",
     "url": "https://www.lakus.live",
-    "icon": "https://favicons.githubusercontent.com/www.lakus.live",
+    "icon": "https://icons.duckduckgo.com/ip3/www.lakus.live.ico",
     "slug": "lakus",
     "status": "up",
     "uptime": "100.00%",
@@ -387,7 +388,7 @@
   {
     "name": "MetaTheater",
     "url": "https://metatheater.live",
-    "icon": "https://favicons.githubusercontent.com/metatheater.live",
+    "icon": "https://icons.duckduckgo.com/ip3/metatheater.live.ico",
     "slug": "meta-theater",
     "status": "up",
     "uptime": "99.97%",
@@ -408,7 +409,7 @@
   {
     "name": "NATIONAL THEATER COMPANY OF KOREA",
     "url": "https://on.ntck.or.kr/Product/OTT",
-    "icon": "https://favicons.githubusercontent.com/on.ntck.or.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/on.ntck.or.kr.ico",
     "slug": "national-theater-company-of-korea",
     "status": "up",
     "uptime": "99.97%",
