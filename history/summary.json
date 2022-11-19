@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "93.23%",
-    "uptimeMonth": "96.97%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.51%",
     "time": 849,
-    "timeDay": 1105,
-    "timeWeek": 929,
-    "timeMonth": 884,
+    "timeDay": 1118,
+    "timeWeek": 932,
+    "timeMonth": 883,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2022-11-19": 139,
+      "2022-11-19": 129,
       "2022-11-18": 98,
       "2022-11-17": 71,
       "2022-11-16": 262,
@@ -243,7 +243,7 @@
     "timeDay": 286,
     "timeWeek": 282,
     "timeMonth": 289,
-    "timeYear": 282,
+    "timeYear": 283,
     "dailyMinutesDown": {}
   },
   {
@@ -281,7 +281,7 @@
     "timeDay": 452,
     "timeWeek": 569,
     "timeMonth": 648,
-    "timeYear": 843,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2022-07-26": 46,
       "2022-07-04": 15,
@@ -329,7 +329,7 @@
     "timeDay": 1574,
     "timeWeek": 1555,
     "timeMonth": 1484,
-    "timeYear": 1705,
+    "timeYear": 1706,
     "dailyMinutesDown": {
       "2021-12-26": 71
     }
@@ -369,7 +369,7 @@
     "timeDay": 931,
     "timeWeek": 966,
     "timeMonth": 1026,
-    "timeYear": 967,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2022-06-22": 193,
       "2022-06-21": 339,
