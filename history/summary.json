@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "88.94%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "96.08%",
     "uptimeYear": "99.45%",
     "time": 850,
     "timeDay": 882,
@@ -16,7 +16,7 @@
     "timeMonth": 881,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2022-11-21": 159,
+      "2022-11-21": 178,
       "2022-11-20": 173,
       "2022-11-19": 179,
       "2022-11-18": 98,
@@ -114,19 +114,19 @@
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "ticketlink",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 1018,
-    "timeWeek": 991,
-    "timeMonth": 932,
+    "timeDay": 995,
+    "timeWeek": 989,
+    "timeMonth": 933,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-11-21": 1
+      "2022-11-21": 19
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "we-make-curture",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 196,
-    "timeWeek": 177,
+    "timeDay": 178,
+    "timeWeek": 175,
     "timeMonth": 165,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-11-21": 1
+      "2022-11-21": 18
     }
   },
   {
