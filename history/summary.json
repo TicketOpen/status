@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "87.43%",
-    "uptimeWeek": "89.76%",
+    "uptimeDay": "88.94%",
+    "uptimeWeek": "89.74%",
     "uptimeMonth": "96.12%",
     "uptimeYear": "99.45%",
     "time": 850,
-    "timeDay": 894,
-    "timeWeek": 916,
+    "timeDay": 882,
+    "timeWeek": 915,
     "timeMonth": 881,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2022-11-21": 158,
+      "2022-11-21": 159,
       "2022-11-20": 173,
       "2022-11-19": 179,
       "2022-11-18": 98,
@@ -62,8 +62,7 @@
       "2022-09-15": 52,
       "2022-09-13": 74,
       "2022-09-12": 30,
-      "2022-09-11": 58,
-      "2022-09-09": 17
+      "2022-09-11": 58
     }
   },
   {
@@ -115,10 +114,10 @@
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "ticketlink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 929,
@@ -126,17 +125,19 @@
     "timeWeek": 991,
     "timeMonth": 932,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 1
+    }
   },
   {
     "name": "WE MAKE CURTURE",
     "url": "https://ticket.wemakeprice.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.wemakeprice.com.ico",
     "slug": "we-make-curture",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
@@ -144,7 +145,9 @@
     "timeWeek": 177,
     "timeMonth": 165,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-21": 1
+    }
   },
   {
     "name": "NAVER LIVE",
