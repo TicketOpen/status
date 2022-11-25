@@ -4,17 +4,17 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "91.77%",
+    "uptimeDay": "91.74%",
     "uptimeWeek": "87.84%",
-    "uptimeMonth": "94.69%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "99.43%",
     "time": 852,
-    "timeDay": 860,
-    "timeWeek": 905,
+    "timeDay": 870,
+    "timeWeek": 907,
     "timeMonth": 881,
-    "timeYear": 852,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2022-11-25": 81,
       "2022-11-24": 152,
@@ -54,8 +54,7 @@
       "2022-10-02": 30,
       "2022-09-30": 43,
       "2022-09-29": 19,
-      "2022-09-28": 79,
-      "2022-09-27": 16
+      "2022-09-28": 79
     }
   },
   {
