@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "92.98%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.47%",
     "time": 860,
-    "timeDay": 867,
-    "timeWeek": 883,
+    "timeDay": 857,
+    "timeWeek": 882,
     "timeMonth": 892,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2022-12-05": 33,
+      "2022-12-05": 42,
       "2022-12-04": 215,
       "2022-12-03": 119,
       "2022-12-02": 42,
@@ -54,7 +54,7 @@
     "time": 886,
     "timeDay": 1007,
     "timeWeek": 877,
-    "timeMonth": 921,
+    "timeMonth": 920,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2022-07-26": 47,
@@ -76,7 +76,7 @@
     "time": 1044,
     "timeDay": 1211,
     "timeWeek": 1116,
-    "timeMonth": 1164,
+    "timeMonth": 1165,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2022-11-12": 63,
@@ -117,7 +117,7 @@
     "time": 162,
     "timeDay": 185,
     "timeWeek": 163,
-    "timeMonth": 170,
+    "timeMonth": 169,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2022-11-21": 18
@@ -137,7 +137,7 @@
     "time": 975,
     "timeDay": 1148,
     "timeWeek": 1036,
-    "timeMonth": 1053,
+    "timeMonth": 1050,
     "timeYear": 974,
     "dailyMinutesDown": {}
   },
@@ -155,7 +155,7 @@
     "time": 987,
     "timeDay": 1145,
     "timeWeek": 1143,
-    "timeMonth": 1121,
+    "timeMonth": 1119,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2022-07-26": 46
@@ -175,7 +175,7 @@
     "time": 1779,
     "timeDay": 1558,
     "timeWeek": 1782,
-    "timeMonth": 1962,
+    "timeMonth": 1973,
     "timeYear": 1781,
     "dailyMinutesDown": {
       "2022-01-10": 36
@@ -195,7 +195,7 @@
     "time": 1277,
     "timeDay": 1620,
     "timeWeek": 1497,
-    "timeMonth": 1465,
+    "timeMonth": 1472,
     "timeYear": 1266,
     "dailyMinutesDown": {
       "2022-07-25": 23,
@@ -220,7 +220,7 @@
     "time": 283,
     "timeDay": 284,
     "timeWeek": 285,
-    "timeMonth": 282,
+    "timeMonth": 284,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -238,7 +238,7 @@
     "time": 867,
     "timeDay": 1044,
     "timeWeek": 965,
-    "timeMonth": 969,
+    "timeMonth": 967,
     "timeYear": 867,
     "dailyMinutesDown": {
       "2022-01-12": 26
@@ -258,7 +258,7 @@
     "time": 841,
     "timeDay": 466,
     "timeWeek": 861,
-    "timeMonth": 686,
+    "timeMonth": 696,
     "timeYear": 857,
     "dailyMinutesDown": {
       "2022-07-26": 46,
@@ -282,7 +282,7 @@
     "time": 1555,
     "timeDay": 1859,
     "timeWeek": 1675,
-    "timeMonth": 1357,
+    "timeMonth": 1362,
     "timeYear": 1555,
     "dailyMinutesDown": {
       "2022-09-05": 21,
@@ -326,7 +326,7 @@
     "time": 136,
     "timeDay": 133,
     "timeWeek": 118,
-    "timeMonth": 133,
+    "timeMonth": 135,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2022-07-26": 45
@@ -346,7 +346,7 @@
     "time": 971,
     "timeDay": 942,
     "timeWeek": 1203,
-    "timeMonth": 1032,
+    "timeMonth": 1038,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2022-06-22": 193,
@@ -368,7 +368,7 @@
     "time": 1692,
     "timeDay": 2258,
     "timeWeek": 2154,
-    "timeMonth": 2222,
+    "timeMonth": 2215,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2022-05-25": 32,
@@ -389,7 +389,7 @@
     "time": 1257,
     "timeDay": 1880,
     "timeWeek": 1555,
-    "timeMonth": 1511,
+    "timeMonth": 1516,
     "timeYear": 1257,
     "dailyMinutesDown": {}
   },
@@ -407,7 +407,7 @@
     "time": 719,
     "timeDay": 749,
     "timeWeek": 734,
-    "timeMonth": 753,
+    "timeMonth": 750,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2022-06-06": 24,
@@ -428,7 +428,7 @@
     "time": 1787,
     "timeDay": 2032,
     "timeWeek": 1775,
-    "timeMonth": 2012,
+    "timeMonth": 1856,
     "timeYear": 1787,
     "dailyMinutesDown": {
       "2022-08-20": 92,
