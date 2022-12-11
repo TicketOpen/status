@@ -6,17 +6,17 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "90.41%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "90.51%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.46%",
     "time": 863,
-    "timeDay": 836,
-    "timeWeek": 889,
+    "timeDay": 831,
+    "timeWeek": 888,
     "timeMonth": 892,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2022-12-10": 123,
+      "2022-12-10": 113,
       "2022-12-09": 229,
       "2022-12-08": 100,
       "2022-12-07": 148,
@@ -37,7 +37,7 @@
       "2022-11-22": 82,
       "2022-11-21": 215,
       "2022-11-20": 173,
-      "2022-11-19": 32
+      "2022-11-19": 50
     }
   },
   {
