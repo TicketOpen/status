@@ -4,18 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.52%",
     "time": 860,
-    "timeDay": 964,
+    "timeDay": 883,
     "timeWeek": 827,
     "timeMonth": 824,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2023-01-23": 0,
       "2023-01-19": 16,
       "2023-01-18": 17,
       "2023-01-17": 18,
@@ -51,8 +52,7 @@
       "2022-12-01": 114,
       "2022-11-30": 57,
       "2022-11-29": 127,
-      "2022-11-28": 176,
-      "2022-11-27": 18
+      "2022-11-28": 176
     }
   },
   {
@@ -427,18 +427,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/on.ntck.or.kr.ico",
     "slug": "national-theater-company-of-korea",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.84%",
+    "uptimeDay": "44.00%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "99.82%",
     "time": 1796,
     "timeDay": 2016,
     "timeWeek": 2341,
     "timeMonth": 1923,
     "timeYear": 1804,
     "dailyMinutesDown": {
-      "2023-01-23": 1,
+      "2023-01-23": 806,
       "2022-08-20": 92,
       "2022-07-27": 22
     }
