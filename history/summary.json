@@ -426,10 +426,10 @@
     "url": "https://on.ntck.or.kr/Product/OTT",
     "icon": "https://icons.duckduckgo.com/ip3/on.ntck.or.kr.ico",
     "slug": "national-theater-company-of-korea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1796,
@@ -438,6 +438,7 @@
     "timeMonth": 1923,
     "timeYear": 1804,
     "dailyMinutesDown": {
+      "2023-01-23": 1,
       "2022-08-20": 92,
       "2022-07-27": 22
     }
