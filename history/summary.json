@@ -145,9 +145,9 @@
     "slug": "naver-live",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 979,
     "timeDay": 1235,
@@ -155,7 +155,7 @@
     "timeMonth": 1021,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2023-01-25": 4
+      "2023-01-25": 25
     }
   },
   {
@@ -165,9 +165,9 @@
     "slug": "naver-now",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 997,
     "timeDay": 1183,
@@ -175,7 +175,7 @@
     "timeMonth": 1071,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
+      "2023-01-25": 25,
       "2022-07-26": 46
     }
   },
@@ -202,11 +202,11 @@
     "url": "https://www.vlive.tv",
     "icon": "https://icons.duckduckgo.com/ip3/www.vlive.tv.ico",
     "slug": "v-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.52%",
     "time": 1300,
     "timeDay": 1741,
@@ -214,6 +214,7 @@
     "timeMonth": 1614,
     "timeYear": 1286,
     "dailyMinutesDown": {
+      "2023-01-25": 18,
       "2022-07-25": 23,
       "2022-07-22": 180,
       "2022-07-21": 871,
@@ -311,10 +312,10 @@
     "url": "https://danchu.tv",
     "icon": "https://icons.duckduckgo.com/ip3/danchu.tv.ico",
     "slug": "danchu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1669,
@@ -322,7 +323,9 @@
     "timeWeek": 1457,
     "timeMonth": 1467,
     "timeYear": 1658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "bbangya tv",
@@ -370,19 +373,19 @@
     "url": "https://livelystage.com",
     "icon": "https://icons.duckduckgo.com/ip3/livelystage.com.ico",
     "slug": "lively",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1754,
-    "timeDay": 3119,
-    "timeWeek": 2073,
-    "timeMonth": 2236,
-    "timeYear": 1911,
+    "time": 1755,
+    "timeDay": 2806,
+    "timeWeek": 2115,
+    "timeMonth": 2243,
+    "timeYear": 1913,
     "dailyMinutesDown": {
-      "2023-01-25": 28,
+      "2023-01-25": 31,
       "2023-01-20": 64,
       "2022-05-25": 32
     }
@@ -435,7 +438,7 @@
     "slug": "national-theater-company-of-korea",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "13.60%",
+    "uptimeDay": "15.06%",
     "uptimeWeek": "71.59%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "99.43%",
