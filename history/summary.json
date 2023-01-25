@@ -143,29 +143,31 @@
     "url": "https://live.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.naver.com.ico",
     "slug": "naver-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 979,
     "timeDay": 1235,
     "timeWeek": 1022,
     "timeMonth": 1021,
     "timeYear": 978,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 4
+    }
   },
   {
     "name": "NAVER NOW.",
     "url": "https://now.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/now.naver.com.ico",
     "slug": "naver-now",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 997,
     "timeDay": 1183,
@@ -173,6 +175,7 @@
     "timeMonth": 1071,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2023-01-25": 4,
       "2022-07-26": 46
     }
   },
@@ -369,9 +372,9 @@
     "slug": "lively",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 1754,
     "timeDay": 3119,
@@ -379,7 +382,7 @@
     "timeMonth": 2236,
     "timeYear": 1911,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
+      "2023-01-25": 28,
       "2023-01-20": 64,
       "2022-05-25": 32
     }
@@ -389,19 +392,19 @@
     "url": "https://www.lakus.live",
     "icon": "https://icons.duckduckgo.com/ip3/www.lakus.live.ico",
     "slug": "lakus",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1289,
-    "timeDay": 2179,
-    "timeWeek": 1611,
-    "timeMonth": 1530,
-    "timeYear": 1303,
+    "time": 1349,
+    "timeDay": 13537,
+    "timeWeek": 4522,
+    "timeMonth": 2260,
+    "timeYear": 1368,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 25
     }
   },
   {
@@ -432,7 +435,7 @@
     "slug": "national-theater-company-of-korea",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "11.86%",
+    "uptimeDay": "13.60%",
     "uptimeWeek": "71.59%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "99.43%",
