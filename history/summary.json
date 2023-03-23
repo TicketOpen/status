@@ -4,15 +4,15 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "98.55%",
-    "uptimeWeek": "99.15%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 855,
-    "timeDay": 820,
-    "timeWeek": 817,
+    "timeDay": 840,
+    "timeWeek": 818,
     "timeMonth": 809,
     "timeYear": 859,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2022-12-07": 148,
       "2022-12-06": 118,
       "2022-12-05": 32,
-      "2022-12-04": 91
+      "2022-12-04": 75
     }
   },
   {
@@ -225,12 +225,12 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 1308,
     "timeDay": 945,
     "timeWeek": 854,
-    "timeMonth": 898,
+    "timeMonth": 874,
     "timeYear": 1328,
     "dailyMinutesDown": {
       "2023-02-23": 20,
@@ -317,7 +317,7 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1447,
