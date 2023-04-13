@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.52%",
     "time": 853,
     "timeDay": 843,
@@ -16,7 +16,7 @@
     "timeMonth": 816,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2023-04-12": 30,
+      "2023-04-12": 15,
       "2023-04-11": 17,
       "2023-04-08": 63,
       "2023-04-06": 17,
@@ -76,7 +76,7 @@
       "2022-12-10": 113,
       "2022-12-09": 229,
       "2022-12-08": 100,
-      "2022-12-07": 124
+      "2022-12-07": 148
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeDay": 952,
     "timeWeek": 834,
     "timeMonth": 844,
-    "timeYear": 875,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2022-07-26": 47,
       "2022-06-16": 40
@@ -217,7 +217,7 @@
     "timeDay": 1745,
     "timeWeek": 1737,
     "timeMonth": 1610,
-    "timeYear": 1800,
+    "timeYear": 1799,
     "dailyMinutesDown": {}
   },
   {
@@ -235,7 +235,7 @@
     "timeDay": 961,
     "timeWeek": 829,
     "timeMonth": 829,
-    "timeYear": 1315,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -326,7 +326,7 @@
     "timeDay": 1213,
     "timeWeek": 1341,
     "timeMonth": 1454,
-    "timeYear": 1391,
+    "timeYear": 1393,
     "dailyMinutesDown": {
       "2023-03-16": 68,
       "2022-09-05": 21,
@@ -388,7 +388,7 @@
     "timeDay": 870,
     "timeWeek": 997,
     "timeMonth": 1002,
-    "timeYear": 1016,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2022-06-22": 193,
       "2022-06-21": 339
@@ -409,7 +409,7 @@
     "timeDay": 2654,
     "timeWeek": 2291,
     "timeMonth": 2320,
-    "timeYear": 2086,
+    "timeYear": 2087,
     "dailyMinutesDown": {
       "2023-01-25": 31,
       "2023-01-20": 64,
@@ -431,7 +431,7 @@
     "timeDay": 1005,
     "timeWeek": 935,
     "timeMonth": 1146,
-    "timeYear": 1408,
+    "timeYear": 1409,
     "dailyMinutesDown": {
       "2023-03-31": 38,
       "2023-01-25": 25
@@ -473,7 +473,7 @@
     "timeDay": 2013,
     "timeWeek": 1847,
     "timeMonth": 2073,
-    "timeYear": 1861,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2023-01-25": 278,
       "2023-01-24": 1440,
