@@ -6,17 +6,16 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.55%",
     "time": 851,
-    "timeDay": 791,
-    "timeWeek": 792,
+    "timeDay": 743,
+    "timeWeek": 793,
     "timeMonth": 812,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2023-04-29": 6,
       "2023-04-26": 19,
       "2023-04-25": 53,
       "2023-04-24": 28,
@@ -84,7 +83,7 @@
       "2022-12-12": 102,
       "2022-12-11": 103,
       "2022-12-10": 113,
-      "2022-12-09": 78
+      "2022-12-09": 98
     }
   },
   {
@@ -101,7 +100,7 @@
     "time": 872,
     "timeDay": 706,
     "timeWeek": 795,
-    "timeMonth": 827,
+    "timeMonth": 823,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2022-07-26": 47,
@@ -122,7 +121,7 @@
     "time": 1003,
     "timeDay": 612,
     "timeWeek": 767,
-    "timeMonth": 817,
+    "timeMonth": 811,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2022-11-12": 63,
@@ -143,7 +142,7 @@
     "time": 879,
     "timeDay": 548,
     "timeWeek": 693,
-    "timeMonth": 727,
+    "timeMonth": 720,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2022-11-21": 19
@@ -163,7 +162,7 @@
     "time": 161,
     "timeDay": 136,
     "timeWeek": 150,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2022-11-21": 18
@@ -183,7 +182,7 @@
     "time": 984,
     "timeDay": 816,
     "timeWeek": 918,
-    "timeMonth": 961,
+    "timeMonth": 954,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2023-01-25": 41
@@ -203,7 +202,7 @@
     "time": 1011,
     "timeDay": 858,
     "timeWeek": 924,
-    "timeMonth": 1017,
+    "timeMonth": 1010,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2023-01-25": 41,
@@ -224,7 +223,7 @@
     "time": 1770,
     "timeDay": 1185,
     "timeWeek": 1468,
-    "timeMonth": 1722,
+    "timeMonth": 1713,
     "timeYear": 1798,
     "dailyMinutesDown": {}
   },
@@ -242,8 +241,8 @@
     "time": 1272,
     "timeDay": 692,
     "timeWeek": 788,
-    "timeMonth": 833,
-    "timeYear": 1307,
+    "timeMonth": 828,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -275,7 +274,7 @@
     "time": 286,
     "timeDay": 253,
     "timeWeek": 318,
-    "timeMonth": 337,
+    "timeMonth": 340,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -293,7 +292,7 @@
     "time": 879,
     "timeDay": 712,
     "timeWeek": 906,
-    "timeMonth": 939,
+    "timeMonth": 941,
     "timeYear": 901,
     "dailyMinutesDown": {}
   },
@@ -311,7 +310,7 @@
     "time": 770,
     "timeDay": 723,
     "timeWeek": 687,
-    "timeMonth": 590,
+    "timeMonth": 600,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-01-10": 18,
@@ -333,8 +332,8 @@
     "time": 1430,
     "timeDay": 707,
     "timeWeek": 791,
-    "timeMonth": 1265,
-    "timeYear": 1380,
+    "timeMonth": 1251,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2023-03-16": 68,
       "2022-09-05": 21,
@@ -355,8 +354,8 @@
     "time": 1627,
     "timeDay": 1294,
     "timeWeek": 1401,
-    "timeMonth": 1402,
-    "timeYear": 1553,
+    "timeMonth": 1393,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2023-01-25": 17
     }
@@ -375,7 +374,7 @@
     "time": 131,
     "timeDay": 112,
     "timeWeek": 134,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-07-26": 45
@@ -395,7 +394,7 @@
     "time": 975,
     "timeDay": 1042,
     "timeWeek": 1109,
-    "timeMonth": 1039,
+    "timeMonth": 1044,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2022-06-22": 193,
@@ -416,7 +415,7 @@
     "time": 1924,
     "timeDay": 1973,
     "timeWeek": 2249,
-    "timeMonth": 2294,
+    "timeMonth": 2295,
     "timeYear": 2107,
     "dailyMinutesDown": {
       "2023-01-25": 31,
@@ -438,7 +437,7 @@
     "time": 1333,
     "timeDay": 754,
     "timeWeek": 914,
-    "timeMonth": 940,
+    "timeMonth": 905,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2023-03-31": 38,
@@ -459,8 +458,8 @@
     "time": 717,
     "timeDay": 590,
     "timeWeek": 650,
-    "timeMonth": 685,
-    "timeYear": 734,
+    "timeMonth": 683,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2022-06-06": 24,
       "2022-05-08": 81
@@ -480,7 +479,7 @@
     "time": 1813,
     "timeDay": 1515,
     "timeWeek": 1680,
-    "timeMonth": 1914,
+    "timeMonth": 1773,
     "timeYear": 1860,
     "dailyMinutesDown": {
       "2023-01-25": 278,
