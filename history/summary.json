@@ -354,18 +354,19 @@
     "url": "https://danchu.tv",
     "icon": "https://icons.duckduckgo.com/ip3/danchu.tv.ico",
     "slug": "danchu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1613,
+    "time": 1612,
     "timeDay": 1447,
     "timeWeek": 1494,
     "timeMonth": 1489,
     "timeYear": 1530,
     "dailyMinutesDown": {
+      "2023-05-23": 1,
       "2023-01-25": 17
     }
   },
