@@ -6,17 +6,16 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.52%",
     "time": 850,
-    "timeDay": 860,
+    "timeDay": 871,
     "timeWeek": 836,
     "timeMonth": 842,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2023-07-18": 9,
       "2023-07-17": 32,
       "2023-07-16": 54,
       "2023-07-13": 18,
@@ -96,7 +95,8 @@
       "2023-02-20": 109,
       "2023-02-18": 17,
       "2023-02-14": 22,
-      "2023-02-12": 18
+      "2023-02-12": 18,
+      "2023-02-11": 23
     }
   },
   {
@@ -378,7 +378,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -407,18 +407,20 @@
     "url": "https://artistscard.com",
     "icon": "https://icons.duckduckgo.com/ip3/artistscard.com.ico",
     "slug": "artists-card",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 905,
-    "timeWeek": 960,
-    "timeMonth": 1040,
-    "timeYear": 1054,
-    "dailyMinutesDown": {}
+    "time": 1005,
+    "timeDay": 488,
+    "timeWeek": 848,
+    "timeMonth": 1009,
+    "timeYear": 1051,
+    "dailyMinutesDown": {
+      "2023-07-18": 1
+    }
   },
   {
     "name": "Lively",
