@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.51%",
     "time": 849,
     "timeDay": 846,
@@ -16,7 +16,7 @@
     "timeMonth": 834,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-07-25": 30,
+      "2023-07-25": 21,
       "2023-07-24": 19,
       "2023-07-23": 15,
       "2023-07-21": 153,
@@ -93,7 +93,8 @@
       "2023-03-07": 19,
       "2023-03-06": 20,
       "2023-03-04": 16,
-      "2023-02-24": 35
+      "2023-02-24": 35,
+      "2023-02-23": 23
     }
   },
   {
@@ -112,9 +113,7 @@
     "timeWeek": 875,
     "timeMonth": 882,
     "timeYear": 876,
-    "dailyMinutesDown": {
-      "2022-07-26": 47
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YES24 Ticket",
@@ -214,8 +213,7 @@
     "timeMonth": 1152,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2023-01-25": 41,
-      "2022-07-26": 46
+      "2023-01-25": 41
     }
   },
   {
@@ -316,8 +314,7 @@
     "timeMonth": 510,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2023-01-10": 18,
-      "2022-07-26": 46
+      "2023-01-10": 18
     }
   },
   {
@@ -348,7 +345,7 @@
     "slug": "danchu",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "77.87%",
+    "uptimeDay": "82.42%",
     "uptimeWeek": "89.05%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.23%",
@@ -372,18 +369,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "down",
-    "uptime": "97.80%",
+    "uptime": "97.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "26.09%",
-    "uptimeMonth": "82.99%",
-    "uptimeYear": "96.30%",
+    "uptimeWeek": "25.44%",
+    "uptimeMonth": "82.84%",
+    "uptimeYear": "96.29%",
     "time": 128,
     "timeDay": 0,
     "timeWeek": 130,
     "timeMonth": 102,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-07-25": 1418,
+      "2023-07-26": 43,
+      "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -398,8 +396,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 14,
-      "2022-07-26": 45
+      "2023-05-24": 14
     }
   },
   {
