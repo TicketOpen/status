@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "99.52%",
     "time": 851,
-    "timeDay": 862,
-    "timeWeek": 830,
-    "timeMonth": 831,
-    "timeYear": 851,
+    "timeDay": 871,
+    "timeWeek": 832,
+    "timeMonth": 832,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2023-07-31": 17,
+      "2023-07-31": 21,
       "2023-07-28": 28,
       "2023-07-27": 48,
       "2023-07-25": 21,
@@ -110,7 +110,7 @@
     "timeDay": 735,
     "timeWeek": 767,
     "timeMonth": 852,
-    "timeYear": 874,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -128,7 +128,7 @@
     "timeDay": 1003,
     "timeWeek": 970,
     "timeMonth": 905,
-    "timeYear": 997,
+    "timeYear": 998,
     "dailyMinutesDown": {
       "2023-06-28": 28,
       "2022-11-12": 63
@@ -209,7 +209,7 @@
     "timeDay": 1623,
     "timeWeek": 1535,
     "timeMonth": 1237,
-    "timeYear": 1077,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-01-25": 41
     }
@@ -247,7 +247,7 @@
     "timeDay": 968,
     "timeWeek": 986,
     "timeMonth": 925,
-    "timeYear": 1254,
+    "timeYear": 1255,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -292,7 +292,7 @@
     "timeDay": 905,
     "timeWeek": 1123,
     "timeMonth": 1065,
-    "timeYear": 938,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -310,7 +310,7 @@
     "timeDay": 248,
     "timeWeek": 397,
     "timeMonth": 471,
-    "timeYear": 651,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2023-01-10": 18
     }
@@ -330,7 +330,7 @@
     "timeDay": 975,
     "timeWeek": 960,
     "timeMonth": 918,
-    "timeYear": 1262,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2023-03-16": 68,
       "2022-09-05": 21
@@ -344,14 +344,14 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.57%",
+    "uptimeWeek": "96.62%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.23%",
     "time": 1563,
     "timeDay": 1523,
     "timeWeek": 1549,
     "timeMonth": 1495,
-    "timeYear": 1487,
+    "timeYear": 1486,
     "dailyMinutesDown": {
       "2023-07-25": 296,
       "2023-07-24": 807,
@@ -370,7 +370,7 @@
     "uptime": "96.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.33%",
+    "uptimeMonth": "63.32%",
     "uptimeYear": "94.67%",
     "time": 128,
     "timeDay": 0,
@@ -378,7 +378,7 @@
     "timeMonth": 105,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-07-31": 1390,
+      "2023-07-31": 1395,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -437,7 +437,7 @@
     "timeDay": 1934,
     "timeWeek": 1733,
     "timeMonth": 1870,
-    "timeYear": 2142,
+    "timeYear": 2143,
     "dailyMinutesDown": {
       "2023-05-06": 21,
       "2023-05-01": 41,
@@ -460,7 +460,7 @@
     "timeDay": 1032,
     "timeWeek": 1056,
     "timeMonth": 1057,
-    "timeYear": 1334,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2023-03-31": 38,
       "2023-01-25": 25
@@ -481,7 +481,7 @@
     "timeDay": 757,
     "timeWeek": 812,
     "timeMonth": 785,
-    "timeYear": 795,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2023-05-12": 311,
       "2023-05-11": 343
@@ -502,7 +502,7 @@
     "timeDay": 2706,
     "timeWeek": 2115,
     "timeMonth": 2068,
-    "timeYear": 1912,
+    "timeYear": 1913,
     "dailyMinutesDown": {
       "2023-06-13": 18,
       "2023-01-25": 278,
