@@ -1,7 +1,7 @@
 url: https://ticket.melon.com
-status: down
-code: 406
-responseTime: 807
-lastUpdated: 2023-08-08T23:16:31.218Z
+status: up
+code: 200
+responseTime: 1015
+lastUpdated: 2023-08-08T23:25:55.297Z
 startTime: Mon Nov 01 2021 04:15:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
