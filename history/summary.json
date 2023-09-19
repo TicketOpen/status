@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "99.51%",
     "time": 849,
     "timeDay": 813,
@@ -16,7 +16,6 @@
     "timeMonth": 835,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-09-18": 15,
       "2023-09-17": 40,
       "2023-09-15": 68,
       "2023-09-13": 78,
@@ -72,7 +71,7 @@
       "2023-06-29": 113,
       "2023-06-28": 19,
       "2023-06-18": 54,
-      "2023-06-17": 16
+      "2023-06-17": 31
     }
   },
   {
@@ -102,7 +101,7 @@
     "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.73%",
+    "uptimeMonth": "45.93%",
     "uptimeYear": "95.18%",
     "time": 1036,
     "timeDay": 0,
@@ -149,7 +148,7 @@
     "timeDay": 0,
     "timeWeek": 955,
     "timeMonth": 795,
-    "timeYear": 809,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2022-11-21": 19
     }
@@ -229,7 +228,7 @@
     "timeDay": 0,
     "timeWeek": 1915,
     "timeMonth": 1691,
-    "timeYear": 1781,
+    "timeYear": 1780,
     "dailyMinutesDown": {}
   },
   {
@@ -247,7 +246,7 @@
     "timeDay": 0,
     "timeWeek": 965,
     "timeMonth": 881,
-    "timeYear": 1174,
+    "timeYear": 1173,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -330,7 +329,7 @@
     "timeDay": 0,
     "timeWeek": 972,
     "timeMonth": 895,
-    "timeYear": 1146,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2023-03-16": 68
     }
@@ -344,15 +343,16 @@
     "uptime": "97.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.23%",
-    "uptimeYear": "96.25%",
+    "uptimeMonth": "64.03%",
+    "uptimeYear": "96.23%",
     "time": 1527,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1487,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2023-09-18": 1390,
+      "2023-09-19": 36,
+      "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -377,18 +377,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "down",
-    "uptime": "89.75%",
+    "uptime": "89.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.25%",
+    "uptimeYear": "81.23%",
     "time": 128,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-09-18": 1390,
+      "2023-09-19": 36,
+      "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -476,7 +477,7 @@
     "timeDay": 0,
     "timeWeek": 1026,
     "timeMonth": 1024,
-    "timeYear": 1013,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2023-07-18": 32
     }
@@ -535,7 +536,7 @@
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.14%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "96.70%",
     "time": 788,
     "timeDay": 0,
@@ -575,7 +576,7 @@
     "timeDay": 0,
     "timeWeek": 1983,
     "timeMonth": 1939,
-    "timeYear": 1919,
+    "timeYear": 1920,
     "dailyMinutesDown": {
       "2023-06-13": 18,
       "2023-01-25": 278,
