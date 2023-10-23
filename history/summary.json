@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.50%",
     "time": 850,
     "timeDay": 794,
@@ -16,7 +16,6 @@
     "timeMonth": 858,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-10-22": 15,
       "2023-10-21": 19,
       "2023-10-18": 26,
       "2023-10-17": 19,
@@ -76,7 +75,8 @@
       "2023-07-27": 48,
       "2023-07-25": 21,
       "2023-07-24": 19,
-      "2023-07-23": 15
+      "2023-07-23": 15,
+      "2023-07-21": 17
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeDay": 1366,
     "timeWeek": 1476,
     "timeMonth": 1508,
-    "timeYear": 1165,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2023-01-25": 41
     }
@@ -234,7 +234,7 @@
     "timeDay": 1687,
     "timeWeek": 2280,
     "timeMonth": 2073,
-    "timeYear": 1786,
+    "timeYear": 1781,
     "dailyMinutesDown": {}
   },
   {
@@ -252,7 +252,7 @@
     "timeDay": 824,
     "timeWeek": 920,
     "timeMonth": 948,
-    "timeYear": 1132,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -335,7 +335,7 @@
     "timeDay": 868,
     "timeWeek": 928,
     "timeMonth": 930,
-    "timeYear": 1069,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-03-16": 68
     }
@@ -350,14 +350,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.94%",
+    "uptimeYear": "86.92%",
     "time": 1509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2023-10-22": 1390,
+      "2023-10-23": 36,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -416,18 +417,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "down",
-    "uptime": "85.41%",
+    "uptime": "85.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.93%",
+    "uptimeYear": "71.91%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 123,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-10-22": 1390,
+      "2023-10-23": 36,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -549,7 +551,7 @@
     "timeDay": 822,
     "timeWeek": 955,
     "timeMonth": 1086,
-    "timeYear": 1017,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2023-07-18": 32
     }
@@ -606,7 +608,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/metatheater.live.ico",
     "slug": "meta-theater",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -649,7 +651,7 @@
     "timeDay": 1713,
     "timeWeek": 2392,
     "timeMonth": 2288,
-    "timeYear": 1959,
+    "timeYear": 1947,
     "dailyMinutesDown": {
       "2023-06-13": 18,
       "2023-01-25": 278,
