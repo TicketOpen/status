@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "99.50%",
-    "time": 850,
-    "timeDay": 787,
-    "timeWeek": 825,
-    "timeMonth": 858,
+    "time": 849,
+    "timeDay": 780,
+    "timeWeek": 822,
+    "timeMonth": 857,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-10-25": 18,
+      "2023-10-25": 17,
       "2023-10-24": 52,
       "2023-10-21": 19,
       "2023-10-18": 26,
@@ -74,7 +74,8 @@
       "2023-08-03": 48,
       "2023-07-31": 16,
       "2023-07-28": 28,
-      "2023-07-27": 48
+      "2023-07-27": 48,
+      "2023-07-25": 21
     }
   },
   {
@@ -110,7 +111,7 @@
     "timeDay": 853,
     "timeWeek": 915,
     "timeMonth": 923,
-    "timeYear": 1040,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2023-09-26": 18,
       "2023-09-04": 680,
@@ -250,7 +251,7 @@
     "timeDay": 816,
     "timeWeek": 833,
     "timeMonth": 937,
-    "timeYear": 1124,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2023-02-23": 20,
       "2023-02-14": 654,
@@ -333,7 +334,7 @@
     "timeDay": 856,
     "timeWeek": 868,
     "timeMonth": 926,
-    "timeYear": 1061,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2023-03-16": 68
     }
@@ -345,9 +346,9 @@
     "slug": "danchu",
     "status": "up",
     "uptime": "92.93%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "12.34%",
-    "uptimeMonth": "4.22%",
+    "uptimeDay": "87.96%",
+    "uptimeWeek": "12.57%",
+    "uptimeMonth": "4.27%",
     "uptimeYear": "86.35%",
     "time": 1508,
     "timeDay": 1562,
@@ -421,14 +422,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.11%",
+    "uptimeYear": "71.10%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-10-25": 1391,
+      "2023-10-25": 1414,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
@@ -553,7 +554,7 @@
     "timeDay": 970,
     "timeWeek": 914,
     "timeMonth": 1065,
-    "timeYear": 1015,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2023-07-18": 32
     }
@@ -573,7 +574,7 @@
     "timeDay": 2016,
     "timeWeek": 1889,
     "timeMonth": 2035,
-    "timeYear": 2123,
+    "timeYear": 2124,
     "dailyMinutesDown": {
       "2023-05-06": 21,
       "2023-05-01": 41,
@@ -619,7 +620,7 @@
     "timeDay": 766,
     "timeWeek": 712,
     "timeMonth": 790,
-    "timeYear": 805,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2023-08-21": 513,
       "2023-08-20": 1440,
@@ -653,7 +654,7 @@
     "timeDay": 1709,
     "timeWeek": 2291,
     "timeMonth": 2107,
-    "timeYear": 1946,
+    "timeYear": 1947,
     "dailyMinutesDown": {
       "2023-06-13": 18,
       "2023-01-25": 278,
