@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "97.94%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "97.91%",
     "uptimeYear": "99.50%",
     "time": 849,
-    "timeDay": 805,
-    "timeWeek": 818,
-    "timeMonth": 853,
+    "timeDay": 800,
+    "timeWeek": 816,
+    "timeMonth": 852,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-10-27": 54,
+      "2023-10-27": 64,
       "2023-10-25": 17,
       "2023-10-24": 52,
       "2023-10-21": 19,
@@ -91,7 +91,7 @@
     "timeDay": 681,
     "timeWeek": 678,
     "timeMonth": 726,
-    "timeYear": 830,
+    "timeYear": 829,
     "dailyMinutesDown": {}
   },
   {
@@ -109,7 +109,7 @@
     "timeDay": 867,
     "timeWeek": 900,
     "timeMonth": 911,
-    "timeYear": 1039,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2023-09-26": 18,
       "2023-09-04": 680,
@@ -151,7 +151,7 @@
     "timeDay": 661,
     "timeWeek": 693,
     "timeMonth": 795,
-    "timeYear": 794,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2022-11-21": 19
     }
@@ -191,7 +191,7 @@
     "timeDay": 926,
     "timeWeek": 955,
     "timeMonth": 1036,
-    "timeYear": 1020,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2023-01-25": 41
     }
@@ -231,7 +231,7 @@
     "timeDay": 2048,
     "timeWeek": 2020,
     "timeMonth": 2041,
-    "timeYear": 1784,
+    "timeYear": 1786,
     "dailyMinutesDown": {}
   },
   {
@@ -332,7 +332,7 @@
     "timeDay": 845,
     "timeWeek": 862,
     "timeMonth": 918,
-    "timeYear": 1060,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2023-03-16": 68
     }
@@ -345,8 +345,8 @@
     "status": "up",
     "uptime": "92.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.90%",
-    "uptimeMonth": "10.79%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "10.82%",
     "uptimeYear": "86.35%",
     "time": 1506,
     "timeDay": 1468,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-10-27": 1390,
+      "2023-10-27": 1401,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -574,7 +574,7 @@
     "timeDay": 2040,
     "timeWeek": 1841,
     "timeMonth": 1995,
-    "timeYear": 2122,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2023-05-06": 21,
       "2023-05-01": 41,
