@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.50%",
     "time": 848,
-    "timeDay": 871,
-    "timeWeek": 841,
-    "timeMonth": 850,
+    "timeDay": 828,
+    "timeWeek": 838,
+    "timeMonth": 849,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-11-06": 1,
+      "2023-11-06": 7,
       "2023-11-04": 66,
       "2023-11-02": 56,
       "2023-11-01": 51,
@@ -90,7 +90,7 @@
     "timeDay": 703,
     "timeWeek": 701,
     "timeMonth": 717,
-    "timeYear": 826,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   },
   {
@@ -150,7 +150,7 @@
     "timeDay": 696,
     "timeWeek": 753,
     "timeMonth": 771,
-    "timeYear": 790,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2022-11-21": 19
     }
@@ -170,7 +170,7 @@
     "timeDay": 400,
     "timeWeek": 197,
     "timeMonth": 175,
-    "timeYear": 167,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2022-11-21": 18
     }
@@ -230,7 +230,7 @@
     "timeDay": 2385,
     "timeWeek": 2020,
     "timeMonth": 2094,
-    "timeYear": 1790,
+    "timeYear": 1788,
     "dailyMinutesDown": {}
   },
   {
@@ -331,7 +331,7 @@
     "timeDay": 863,
     "timeWeek": 869,
     "timeMonth": 902,
-    "timeYear": 1053,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-03-16": 68
     }
@@ -345,7 +345,7 @@
     "uptime": "93.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.38%",
+    "uptimeMonth": "40.40%",
     "uptimeYear": "86.35%",
     "time": 1507,
     "timeDay": 2135,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2023-11-06": 1391,
+      "2023-11-06": 1397,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -583,7 +583,7 @@
     "timeDay": 2093,
     "timeWeek": 2061,
     "timeMonth": 2056,
-    "timeYear": 2119,
+    "timeYear": 2118,
     "dailyMinutesDown": {
       "2023-05-06": 21,
       "2023-05-01": 41,
@@ -606,7 +606,7 @@
     "timeDay": 1190,
     "timeWeek": 1004,
     "timeMonth": 1017,
-    "timeYear": 1286,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-11-04": 28,
       "2023-10-20": 19,
@@ -630,7 +630,7 @@
     "timeDay": 696,
     "timeWeek": 780,
     "timeMonth": 783,
-    "timeYear": 806,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2023-08-21": 513,
       "2023-08-20": 1440,
