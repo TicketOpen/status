@@ -98,11 +98,11 @@
     "url": "http://ticket.yes24.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.yes24.com.ico",
     "slug": "yes-24-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "95.18%",
     "time": 1057,
     "timeDay": 1184,
@@ -110,7 +110,7 @@
     "timeMonth": 1101,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2023-11-11": 8,
+      "2023-11-11": 2,
       "2023-09-26": 18,
       "2023-09-04": 680,
       "2023-09-03": 1440,
@@ -221,10 +221,10 @@
     "url": "https://tv.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/tv.naver.com.ico",
     "slug": "naver-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1792,
@@ -232,7 +232,9 @@
     "timeWeek": 1944,
     "timeMonth": 2051,
     "timeYear": 1786,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-11": 1
+    }
   },
   {
     "name": "V LIVE",
@@ -346,7 +348,7 @@
     "uptime": "93.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.67%",
+    "uptimeMonth": "54.70%",
     "uptimeYear": "86.35%",
     "time": 1507,
     "timeDay": 2276,
@@ -427,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-11-11": 452,
+      "2023-11-11": 463,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
