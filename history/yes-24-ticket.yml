@@ -1,7 +1,7 @@
 url: http://ticket.yes24.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-11T07:22:21.425Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2023-11-11T07:30:14.241Z
 startTime: 2021-11-01T04:15:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
