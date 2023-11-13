@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.51%",
     "time": 849,
     "timeDay": 921,
@@ -16,7 +16,7 @@
     "timeMonth": 839,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2023-11-13": 20,
+      "2023-11-13": 29,
       "2023-11-10": 17,
       "2023-11-08": 15,
       "2023-11-04": 66,
@@ -287,9 +287,9 @@
     "slug": "beyond-live",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 958,
     "timeDay": 1090,
@@ -297,7 +297,7 @@
     "timeMonth": 1022,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2023-11-13": 81
+      "2023-11-13": 91
     }
   },
   {
@@ -349,7 +349,7 @@
     "uptime": "93.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.30%",
+    "uptimeMonth": "63.32%",
     "uptimeYear": "86.35%",
     "time": 1509,
     "timeDay": 1604,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-11-13": 1350,
+      "2023-11-13": 1360,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
