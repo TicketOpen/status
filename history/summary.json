@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "76.82%",
+    "uptimeDay": "76.77%",
     "uptimeWeek": "76.25%",
-    "uptimeMonth": "93.62%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 865,
-    "timeDay": 933,
+    "timeDay": 935,
     "timeWeek": 927,
     "timeMonth": 907,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-02-25": 333,
+      "2024-02-25": 334,
       "2024-02-24": 397,
       "2024-02-23": 251,
       "2024-02-22": 346,
@@ -24,7 +24,7 @@
       "2024-02-20": 345,
       "2024-02-19": 378,
       "2024-02-18": 318,
-      "2024-02-17": 82
+      "2024-02-17": 57
     }
   },
   {
@@ -369,7 +369,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "down",
-    "uptime": "72.42%",
+    "uptime": "72.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-02-25": 1390,
+      "2024-02-25": 1402,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -627,7 +627,7 @@
     "time": 1009,
     "timeDay": 0,
     "timeWeek": 977,
-    "timeMonth": 949,
+    "timeMonth": 945,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2023-07-18": 32
@@ -647,7 +647,7 @@
     "time": 2023,
     "timeDay": 0,
     "timeWeek": 1444,
-    "timeMonth": 1653,
+    "timeMonth": 1658,
     "timeYear": 1943,
     "dailyMinutesDown": {
       "2023-05-06": 21,
@@ -668,7 +668,7 @@
     "time": 1236,
     "timeDay": 0,
     "timeWeek": 835,
-    "timeMonth": 914,
+    "timeMonth": 916,
     "timeYear": 1087,
     "dailyMinutesDown": {
       "2023-11-04": 28,
@@ -689,9 +689,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.70%",
     "time": 797,
-    "timeDay": 836,
+    "timeDay": 0,
     "timeWeek": 762,
-    "timeMonth": 767,
+    "timeMonth": 770,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2023-08-21": 513,
@@ -723,9 +723,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1931,
-    "timeDay": 5637,
+    "timeDay": 0,
     "timeWeek": 3086,
-    "timeMonth": 2069,
+    "timeMonth": 2089,
     "timeYear": 1950,
     "dailyMinutesDown": {
       "2024-02-11": 19,
