@@ -6,9 +6,9 @@
     "slug": "melon-ticket",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "75.98%",
-    "uptimeMonth": "94.16%",
+    "uptimeDay": "74.02%",
+    "uptimeWeek": "75.58%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 868,
     "timeDay": 901,
@@ -16,7 +16,8 @@
     "timeMonth": 907,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-02-28": 333,
+      "2024-02-29": 35,
+      "2024-02-28": 338,
       "2024-02-27": 404,
       "2024-02-26": 358,
       "2024-02-25": 333,
@@ -59,7 +60,7 @@
     "timeDay": 616,
     "timeWeek": 741,
     "timeMonth": 868,
-    "timeYear": 1204,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2023-11-12": 156,
       "2023-11-11": 172,
@@ -138,7 +139,7 @@
     "timeDay": 657,
     "timeWeek": 854,
     "timeMonth": 974,
-    "timeYear": 1011,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2024-02-04": 80,
       "2024-02-03": 1
@@ -159,7 +160,7 @@
     "timeDay": 1098,
     "timeWeek": 1667,
     "timeMonth": 1919,
-    "timeYear": 1413,
+    "timeYear": 1411,
     "dailyMinutesDown": {
       "2024-02-04": 81,
       "2024-02-03": 0
@@ -180,7 +181,7 @@
     "timeDay": 169,
     "timeWeek": 256,
     "timeMonth": 319,
-    "timeYear": 1486,
+    "timeYear": 1484,
     "dailyMinutesDown": {
       "2024-02-04": 81,
       "2024-02-03": 0,
@@ -202,7 +203,7 @@
     "timeDay": 533,
     "timeWeek": 752,
     "timeMonth": 871,
-    "timeYear": 893,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-02-04": 81
     }
@@ -222,7 +223,7 @@
     "timeDay": 309,
     "timeWeek": 262,
     "timeMonth": 312,
-    "timeYear": 365,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -263,7 +264,7 @@
     "timeDay": 600,
     "timeWeek": 438,
     "timeMonth": 484,
-    "timeYear": 580,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   },
   {
@@ -372,14 +373,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.58%",
+    "uptimeYear": "36.57%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-02-28": 1435,
+      "2024-02-29": 36,
+      "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -650,7 +652,7 @@
     "timeDay": 994,
     "timeWeek": 1202,
     "timeMonth": 1611,
-    "timeYear": 1936,
+    "timeYear": 1937,
     "dailyMinutesDown": {
       "2023-05-06": 21,
       "2023-05-01": 41
@@ -694,7 +696,7 @@
     "timeDay": 567,
     "timeWeek": 743,
     "timeMonth": 764,
-    "timeYear": 823,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2023-08-21": 513,
       "2023-08-20": 1440,
@@ -728,7 +730,7 @@
     "timeDay": 4100,
     "timeWeek": 3866,
     "timeMonth": 2215,
-    "timeYear": 1963,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2024-02-28": 44,
       "2024-02-11": 19,
