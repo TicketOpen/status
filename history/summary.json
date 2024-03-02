@@ -4,19 +4,19 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "78.67%",
-    "uptimeWeek": "74.01%",
-    "uptimeMonth": "94.02%",
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "77.23%",
+    "uptimeWeek": "73.81%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 869,
-    "timeDay": 915,
+    "timeDay": 916,
     "timeWeek": 911,
     "timeMonth": 907,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2024-03-02": 306,
+      "2024-03-02": 327,
       "2024-03-01": 437,
       "2024-02-29": 474,
       "2024-02-28": 338,
@@ -58,7 +58,7 @@
     "timeDay": 1058,
     "timeWeek": 832,
     "timeMonth": 861,
-    "timeYear": 1204,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2023-11-12": 156,
       "2023-11-11": 172,
@@ -119,7 +119,7 @@
     "timeDay": 198,
     "timeWeek": 169,
     "timeMonth": 172,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 1661,
     "timeWeek": 1423,
     "timeMonth": 1855,
-    "timeYear": 1416,
+    "timeYear": 1417,
     "dailyMinutesDown": {
       "2024-02-04": 81,
       "2024-02-03": 0
@@ -179,7 +179,7 @@
     "timeDay": 243,
     "timeWeek": 229,
     "timeMonth": 309,
-    "timeYear": 1480,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2024-02-04": 81,
       "2024-02-03": 0,
@@ -201,7 +201,7 @@
     "timeDay": 858,
     "timeWeek": 697,
     "timeMonth": 853,
-    "timeYear": 893,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2024-02-04": 81
     }
@@ -280,7 +280,7 @@
     "timeDay": 985,
     "timeWeek": 840,
     "timeMonth": 881,
-    "timeYear": 965,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2023-12-14": 19,
       "2023-03-16": 68
@@ -301,7 +301,7 @@
     "timeDay": 1725,
     "timeWeek": 1560,
     "timeMonth": 1742,
-    "timeYear": 1589,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2024-02-13": 45,
       "2024-02-12": 5,
@@ -371,14 +371,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "35.77%",
+    "uptimeYear": "35.76%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-03-02": 1390,
+      "2024-03-02": 1412,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -696,7 +696,7 @@
     "timeDay": 871,
     "timeWeek": 725,
     "timeMonth": 759,
-    "timeYear": 823,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-08-21": 513,
       "2023-08-20": 1440,
@@ -730,7 +730,7 @@
     "timeDay": 2014,
     "timeWeek": 2761,
     "timeMonth": 2264,
-    "timeYear": 1965,
+    "timeYear": 1966,
     "dailyMinutesDown": {
       "2024-02-28": 44,
       "2024-02-11": 19,
