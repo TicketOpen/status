@@ -6,24 +6,24 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "70.03%",
-    "uptimeWeek": "73.17%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "74.71%",
+    "uptimeWeek": "73.72%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 875,
-    "timeDay": 934,
+    "timeDay": 932,
     "timeWeek": 903,
     "timeMonth": 909,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2024-03-14": 416,
+      "2024-03-14": 401,
       "2024-03-13": 419,
       "2024-03-12": 341,
       "2024-03-11": 313,
       "2024-03-10": 442,
       "2024-03-09": 297,
       "2024-03-08": 474,
-      "2024-03-07": 280
+      "2024-03-07": 298
     }
   },
   {
@@ -283,8 +283,7 @@
     "timeMonth": 894,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2023-12-14": 19,
-      "2023-03-16": 68
+      "2023-12-14": 19
     }
   },
   {
@@ -372,14 +371,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "32.48%",
+    "uptimeYear": "32.46%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-03-14": 1405,
+      "2024-03-15": 36,
+      "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
