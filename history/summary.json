@@ -4,11 +4,11 @@
     "url": "https://ticket.melon.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticket.melon.com.ico",
     "slug": "melon-ticket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "73.73%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "73.94%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 876,
     "timeDay": 913,
@@ -16,7 +16,7 @@
     "timeMonth": 911,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2024-03-20": 132,
+      "2024-03-20": 133,
       "2024-03-19": 254,
       "2024-03-18": 405,
       "2024-03-17": 268,
@@ -24,7 +24,7 @@
       "2024-03-15": 439,
       "2024-03-14": 401,
       "2024-03-13": 419,
-      "2024-03-12": 176
+      "2024-03-12": 156
     }
   },
   {
@@ -368,7 +368,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bbangyatv.com.ico",
     "slug": "bbangya-tv",
     "status": "down",
-    "uptime": "70.44%",
+    "uptime": "70.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -379,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-03-20": 359,
+      "2024-03-20": 380,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
