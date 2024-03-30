@@ -6,17 +6,17 @@
     "slug": "melon-ticket",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "80.30%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "80.95%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.52%",
     "time": 881,
     "timeDay": 911,
     "timeWeek": 903,
-    "timeMonth": 911,
+    "timeMonth": 910,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-03-29": 283,
+      "2024-03-29": 274,
       "2024-03-28": 216,
       "2024-03-27": 348,
       "2024-03-26": 345,
@@ -24,7 +24,7 @@
       "2024-03-24": 267,
       "2024-03-23": 239,
       "2024-03-22": 332,
-      "2024-03-21": 122
+      "2024-03-21": 147
     }
   },
   {
@@ -374,15 +374,16 @@
     "uptime": "69.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "28.36%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "28.35%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-03-29": 1439,
+      "2024-03-30": 36,
+      "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
@@ -708,8 +709,7 @@
     "dailyMinutesDown": {
       "2023-11-04": 28,
       "2023-10-20": 19,
-      "2023-08-11": 19,
-      "2023-03-31": 38
+      "2023-08-11": 19
     }
   },
   {
@@ -718,18 +718,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/metatheater.live.ico",
     "slug": "meta-theater",
     "status": "down",
-    "uptime": "97.42%",
+    "uptime": "97.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.20%",
-    "uptimeYear": "94.21%",
+    "uptimeMonth": "70.12%",
+    "uptimeYear": "94.20%",
     "time": 799,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 760,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2024-03-29": 1439,
+      "2024-03-30": 36,
+      "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
